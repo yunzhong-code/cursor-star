@@ -13,6 +13,8 @@
 
 1.  一键使用
 
+#### 交流群（问题反馈，技术支持）
+<img src="https://github.com/user-attachments/assets/61fd695f-bbcf-4841-a414-2478602c9270" width="500" height="600">
 
 
 
