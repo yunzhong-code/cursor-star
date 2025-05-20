@@ -13,7 +13,7 @@
 
 #### 使用说明
 
-1.  一键使用
+1.  使用前，首先关闭cursor,然后使用管理员身份运行cursorStar软件，点击 star按钮，提示授权成功后，重新打开cursor即可正常使用，不需要其他任何操作
 
 #### 交流群（问题反馈，技术支持）
 <img src="https://github.com/user-attachments/assets/61fd695f-bbcf-4841-a414-2478602c9270" width="500" height="600">
