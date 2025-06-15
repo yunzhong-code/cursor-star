@@ -21,6 +21,6 @@
 
 1.  使用前，首先关闭cursor,然后使用管理员身份运行cursorStar软件，点击 star按钮，提示授权成功后，重新打开cursor即可正常使用，不需要其他任何操作
 
-#### 交流群（问题反馈，技术支持） 微信号 yunzhong27
-<img src="https://github.com/user-attachments/assets/808600b7-84d7-498c-9d07-435f8a82f603" width="500" height="650">
+#### 交流群（问题反馈，技术支持） 
+<img src="https://github.com/user-attachments/assets/8cce2e99-20ed-461b-9186-4fb3b5af2b6f" width="500" height="750">
 
