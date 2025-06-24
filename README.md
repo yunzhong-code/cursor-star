@@ -24,4 +24,8 @@
 #### 交流群（问题反馈，技术支持） 
 <img src="https://github.com/user-attachments/assets/ce5cae14-4eeb-4226-acc6-3422d9d7a9d6" width="350" height="550">
 
+### 软件界面
+
+<img src="https://github.com/user-attachments/assets/675be006-5834-4be2-8362-b183e01e9dc2" width="700" height="700">
+
 
