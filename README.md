@@ -1,7 +1,7 @@
 # cursor-star
 
 ### 介绍
-无限使用cursor授权工具，支持 Windows MacOS, 可多设备无限使用
+一键使cursor稳定无限制使用claude3.7等高级模型,支持 Windows MacOS, 可多设备无限使用
 ### 有效处理如下问题  
 #### Free users can only use GPT 4.1 or Auto as premium models
 #### Your request has been blocked ...
