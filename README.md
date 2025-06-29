@@ -7,6 +7,7 @@
 #### Your request has been blocked ...
 #### Too many free trial accounts used on this machine. Please upgrade to pro
 ### 更新日志
+#### 2025-06-29：支持最新版cursor
 #### 2025-06-15：系统全面升级为3.0，可满额度稳定使用Claude3.7，彻底解决cursor无法正常使用的问题
 #### 2025-06-01：系统全面升级为2.0，大幅提升授权稳定性
 #### 2025-5-19：修复在windows电脑偶尔授权失败的问题
