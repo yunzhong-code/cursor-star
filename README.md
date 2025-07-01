@@ -6,7 +6,7 @@
 #### Free users can only use GPT 4.1 or Auto as premium models
 #### Your request has been blocked ...
 #### Too many free trial accounts used on this machine. Please upgrade to pro
-### 交流群（问题反馈，技术支持） 
+### 交流群（群友学习讨论，问题反馈，技术支持，工作吐槽） 
 <img src="https://github.com/user-attachments/assets/5830331c-ea3d-4d69-ba31-2651c33acdde" width="350" height="550">
 
 ### 更新日志
