@@ -6,6 +6,9 @@
 #### Free users can only use GPT 4.1 or Auto as premium models
 #### Your request has been blocked ...
 #### Too many free trial accounts used on this machine. Please upgrade to pro
+### 交流群（问题反馈，技术支持） 
+<img src="https://github.com/user-attachments/assets/5830331c-ea3d-4d69-ba31-2651c33acdde" width="350" height="550">
+
 ### 更新日志
 #### 2025-06-29：支持最新版cursor
 #### 2025-06-15：系统全面升级为3.0，可满额度稳定使用Claude3.7，彻底解决cursor无法正常使用的问题
@@ -22,11 +25,5 @@
 
 1.  使用前，首先关闭cursor,然后使用管理员身份运行cursorStar软件，点击 star按钮，提示授权成功后，重新打开cursor即可正常使用，不需要其他任何操作
 
-#### 交流群（问题反馈，技术支持） 
-<img src="https://github.com/user-attachments/assets/ce5cae14-4eeb-4226-acc6-3422d9d7a9d6" width="350" height="550">
-
-### 软件界面
-
-<img src="https://github.com/user-attachments/assets/675be006-5834-4be2-8362-b183e01e9dc2" width="700" height="700">
 
 
