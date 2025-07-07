@@ -6,8 +6,8 @@
 #### Free users can only use GPT 4.1 or Auto as premium models
 #### Your request has been blocked ...
 #### Too many free trial accounts used on this machine. Please upgrade to pro
-### 交流群（群友学习讨论，问题反馈，技术支持，工作吐槽） 
-<img src="https://github.com/user-attachments/assets/5830331c-ea3d-4d69-ba31-2651c33acdde" width="350" height="550">
+### 交流群（群友学习讨论，问题反馈，技术支持，工作交流，cursor使用技巧） 
+<img src="https://github.com/user-attachments/assets/9fb93b28-0c49-4af3-9116-11c704a160b9" width="350" height="550">
 
 ### 更新日志
 #### 2025-06-29：支持最新版cursor
