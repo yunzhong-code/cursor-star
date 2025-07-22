@@ -7,7 +7,7 @@
 #### Your request has been blocked ...
 #### Too many free trial accounts used on this machine. Please upgrade to pro
 ### 交流群（群友学习讨论，问题反馈，技术支持，工作交流，cursor使用技巧） 
-<img src="https://github.com/user-attachments/assets/2f6e6132-0950-4796-b4c5-a97b84678baf" width="350" height="550">
+<img src="https://github.com/user-attachments/assets/9872db39-e028-4d25-b4e7-10dc229a5ce3" width="350" height="550">
 
 ### 更新日志
 #### 2025-06-29：支持最新版cursor
@@ -24,6 +24,7 @@
 ### 使用说明
 
 1.  使用前，首先关闭cursor,然后使用管理员身份运行cursorStar软件，点击 star按钮，提示授权成功后，重新打开cursor即可正常使用，不需要其他任何操作
+
 
 
 
