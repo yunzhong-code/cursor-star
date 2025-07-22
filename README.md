@@ -1,4 +1,4 @@
-#  【点个star 防迷路】
+#  【点个star 防迷路, 后续会推出kiro和augment的无限授权工具，敬请期待】
 
 ## 一键使cursor稳定无限制使用claude3.7,grok4等高级模型,支持 Windows MacOS, 可多设备无限使用
 ## 下载地址： 点击右边发行版（Releases）下载对应系统的压缩包，解压后即可使用
