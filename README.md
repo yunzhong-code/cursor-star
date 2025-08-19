@@ -1,6 +1,6 @@
-#  【点个star 防迷路, 后续会推出kiro和augment的无限授权工具，敬请期待】
+#  【点个star 防迷路, 本项目支持在cursor和augment 中使用claude4,gpt5等高级模型】
 
-## 一键使cursor稳定无限制使用claude3.7,grok4等高级模型,支持 Windows MacOS, 可多设备无限使用
+## 一键使cursor稳定无限制使用claude4,gpt5等高级模型,支持 Windows MacOS, 可多设备无限使用
 ## 下载地址： 点击右边发行版（Releases）下载对应系统的压缩包，解压后即可使用
 ### 有效处理如下问题  
 #### Free users can only use GPT 4.1 or Auto as premium models
