@@ -10,6 +10,7 @@
 <img src="https://github.com/user-attachments/assets/35f2bce8-a143-4e9d-944f-fa41ecca995d" width="350" height="550">
 
 ### 更新日志
+#### 2025-08-19：支持在cursor和augment中使用Claude4和gpt5
 #### 2025-06-29：支持最新版cursor
 #### 2025-06-15：系统全面升级为3.0，可满额度稳定使用Claude3.7，彻底解决cursor无法正常使用的问题
 #### 2025-06-01：系统全面升级为2.0，大幅提升授权稳定性
