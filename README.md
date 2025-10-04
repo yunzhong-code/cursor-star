@@ -1,4 +1,4 @@
-#  【点个star 防迷路, 本项目支持在cursor和augment 中使用claude4,gpt5等高级模型】
+#  【点个star 防迷路, 本项目支持在cursor中使用claude4.5,gpt5等高级模型,支持Max模式】
 
 ## 一键使cursor稳定无限制使用claude4,gpt5等高级模型,支持 Windows MacOS, 可多设备无限使用
 ## 下载地址： 点击右边发行版（Releases）下载对应系统的压缩包，解压后即可使用
@@ -10,6 +10,7 @@
 <img src="https://github.com/user-attachments/assets/bbc81dd0-c5c8-4db1-a6cf-f33254f215fc" width="350" height="550">
 
 ### 更新日志
+#### 2025-10-01：支持在cursor中使用Claude4.5和gpt5,支持Max模式
 #### 2025-08-19：支持在cursor和augment中使用Claude4和gpt5
 #### 2025-06-29：支持最新版cursor
 #### 2025-06-15：系统全面升级为3.0，可满额度稳定使用Claude3.7，彻底解决cursor无法正常使用的问题
