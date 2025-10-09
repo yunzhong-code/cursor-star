@@ -8,7 +8,7 @@
 #### Your request has been blocked ...
 #### Too many free trial accounts used on this machine. Please upgrade to pro
 ### 交流群（群友学习讨论，问题反馈，技术支持，工作交流，cursor使用技巧） 
-<img src="https://github.com/user-attachments/assets/bbc81dd0-c5c8-4db1-a6cf-f33254f215fc" width="350" height="550">
+<img src="https://github.com/user-attachments/assets/3ca6c6d6-f7e6-4bbe-8e1e-c10d745a17e9" width="350" height="550">
 
 ### 更新日志
 #### 2025-10-01：支持在cursor中使用Claude4.5和gpt5,支持Max模式
@@ -27,7 +27,6 @@
 ### 使用说明
 
 1.  使用前，首先关闭cursor,然后使用管理员身份运行cursorStar软件，点击 star按钮，提示授权成功后，重新打开cursor即可正常使用，不需要其他任何操作
-
 
 
 
